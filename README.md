@@ -1,6 +1,6 @@
 #  A Discourse responsive dropdown menu
 
-Add dropdown menu on Discourse
+### How to add a dropdown menu on Discourse
 
 1. Add HTML structure and JS script to /admin/customize/css_html in Head tab
 
@@ -16,7 +16,7 @@ Done
 
 Change the HTML structure (links) as appropriate to your site
 
-# How it works
+### How it works
 
 Desktop View
 
