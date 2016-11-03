@@ -1,0 +1,8 @@
+<script>
+$(document).ready(function(){
+  $('#ADUmenu-wrap').prepend('<div id="ADUmenu-trigger">ADUMenu</div>');
+  $('#ADUmenu-trigger').on('click', function(){
+    $('#ADUmenu').slideToggle();
+  });
+});
+</script>
