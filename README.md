@@ -20,6 +20,8 @@ Change the HTML structure (links) as appropriate to your site
 
 Desktop View
 
-http://i.imgur.com/mfkxOBs.png
-
 <a href="http://imgur.com/mfkxOBs"><img src="http://i.imgur.com/mfkxOBs.png" title="Desktop view" /></a>
+
+Desktop View (200% zoom)
+
+<a href="http://imgur.com/ZAvDeD8"><img src="http://i.imgur.com/ZAvDeD8.png" title="Desktop view 200%" /></a>
