@@ -25,3 +25,7 @@ Desktop View
 Desktop View (200% zoom)
 
 <a href="http://imgur.com/ZAvDeD8"><img src="http://i.imgur.com/ZAvDeD8.png" title="Desktop view 200%" /></a>
+
+# To Do
+
+Add screenshots for mobile view (coming soon)
