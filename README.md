@@ -4,7 +4,7 @@ See it in action here <a href="http://forum.adunanza.net/">AduForum</a>
 
 ### How to add a dropdown menu on Discourse
 
-1. Add HTML structure and JS script to /admin/customize/css_html in Head tab
+1. Add HTML structure and JS script to <samp>/admin/customize/css_html</samp> in Head tab
 
 2. Add desktop stylesheet in CSS tab
 
