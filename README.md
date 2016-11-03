@@ -15,3 +15,11 @@ Add dropdown menu on Discourse
 Done
 
 Change the HTML structure (links) as appropriate to your site
+
+# How it works
+
+Desktop View
+
+http://i.imgur.com/mfkxOBs.png
+
+<a href="http://imgur.com/mfkxOBs"><img src="http://i.imgur.com/mfkxOBs.png" title="Desktop view" /></a>
