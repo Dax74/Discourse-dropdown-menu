@@ -28,4 +28,4 @@ Desktop View (200% zoom)
 
 # To Do
 
-Add screenshots for mobile view (coming soon)
+Add screenshots for mobile view (coming very soon)
