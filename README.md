@@ -1,6 +1,6 @@
 #  A Discourse responsive dropdown menu
 
-See it in action here <a href="http://forum.adunanza.net/">title="AduForum"</a>
+See it in action here <a href="http://forum.adunanza.net/">AduForum</a>
 
 ### How to add a dropdown menu on Discourse
 
