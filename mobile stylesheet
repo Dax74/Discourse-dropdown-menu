@@ -1,0 +1,87 @@
+/*MEDIA QUERY*/ 
+@media(max-width: 767px) {
+
+#ADUmenu-wrap * { 
+    box-sizing: border-box;
+}
+#ADUmenu-trigger {
+  display: block;
+  height: auto;
+  line-height: 20px;
+  cursor: pointer;
+  padding: 0 0 0 35px;
+  color: #fff;
+  font-weight: bold;
+  background-color: #111;
+}
+#ADUmenu {
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  z-index: 1040;
+  display: none;
+  box-shadow: none;
+  background: #FFA500;
+}
+#ADUmenu:after {
+  content: '';
+  position: absolute;
+  left: 29px;
+  top: -5px;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #fff;
+}
+#ADUmenu ul {
+  position: static;
+  visibility: visible;
+  opacity: 1;
+  margin: 0;
+  background: none;
+  box-shadow: none;
+}
+#ADUmenu ul ul {
+  margin: 0 0 0 20px;
+  box-shadow: none;
+  background: #ED1212;
+  border-radius: 5px;
+}
+#ADUmenu li {
+  position: static;
+  display: block;
+  float: none;
+  border: 0;
+  margin: 5px;
+  box-shadow: none;
+  background: none !important;
+}
+#ADUmenu ul li {
+  margin-left: 20px;
+  box-shadow: none;
+}
+#ADUmenu a {
+  display: block;
+  float: none;
+  padding: 0;
+  color: #fff;
+}
+#ADUmenu a:hover { color: #fafafa; }
+#ADUmenu ul a {
+  padding: 0;
+  width: auto;
+}
+#ADUmenu ul a { background: none !important; }
+}
+.d-header {
+  background: -webkit-linear-gradient(#FF6C00 10%,#fcd500 100%);
+  background: -moz-linear-gradient(#FF6C00 10%,#fcd500 100%);
+  background: -o-linear-gradient(#FF6C00 10%,#fcd500 100%);
+  background: -ms-linear-gradient(#FF6C00 10%,#fcd500 100%);
+  background: linear-gradient(#FF6C00 10%,#fcd500 100%);      
+  
+}
+.d-header .icons .icon {color: #fff;}
+.container.list-container {margin-top: -10px;}
+.container {margin-top: 5px;}
