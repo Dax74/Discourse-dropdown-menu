@@ -1,0 +1,181 @@
+<link href='https://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
+
+<nav id="ADUmenu-wrap">
+  <ul id="ADUmenu">
+    <li><a href="#" class="infor" title="informazioni utili su AdunanzA e sui suoi progetti">Informazioni</a>
+      <ul>
+        <li><a href="/c/progetti-adunanza">Progetti Adunanza</a>
+          <ul>
+            <li><a href="c/progetti-adunanza/tsunami">Tsunami </a></li>              
+            <li><a href="/c/progetti-adunanza/emule-adunanza">eMule AdunanzA </a></li>  
+            <li><a href="/c/progetti-adunanza/amule-adunanza">aMule AdunanzA </a></li>
+          </ul>
+        </li>  
+        <li><a href="/c/comunit%C3%A0/annunci">Annunci</a></li>
+        <li><a href="/t/-/4878">AduTeam</a></li>
+        <li><a href="/t/-/7517">Collabora con noi</a></li>
+        <li><a href="#">Navigazione avanzata</a>
+          <ul>
+            <li><a href="/?state=watching">Argomenti Osservati</a></li>              
+            <li><a href="/?state=tracked">Argomenti Seguiti</a></li>  
+            <li><a href="/?state=muted">Argomenti Silenziati</a></li>  
+            <li><a href="/search?q=in%3Awiki">Argomenti Wiki</a></li>  
+            <li><a href="/?order=views">Argomenti più Visitati</a></li>
+            <li><a href="/c/assistenza/?max_posts=1">Argomenti senza Risposta</a></li>
+            <li><a href="/search?q=category%3Aassistenza in%3Asolved order%3Alatest">Argomenti con Soluzione</a></li>
+            <li><a href="/search?q=category%3Aassistenza in%3Aunsolved order%3Alatest">Argomenti senza Soluzione</a></li>
+            <li><a href="/posted">I miei Messaggi Pubblici</a></li>
+            <li><a href="/bookmarks">I miei Segnalibri</a></li>
+            <li><a href="/my/messages">I miei Messaggi Privati</a></li>
+         </ul>
+        </li>  
+      </ul>
+    <li><a href="#" class="sect" title="le sezioni e sottosezioni del forum">Sezioni</a>
+      <ul>
+        <li><a href="/c/assistenza">Assistenza</a></li>
+        <li><a href="/c/comunit%C3%A0">Comunità</a>
+          <ul>
+            <li><a href="/c/comunit%C3%A0/annunci">Annunci</a></li>
+          </ul>
+        </li>
+		<li><a href="/c/aduteca">Aduteca</a>
+          <ul>
+            <li><a href="/c/aduteca/assistenza-principianti">Guide Principianti </a></li>  
+            <li><a href="/c/aduteca/firewall-ed-antivirus">Firewall & antivirus </a></li>
+            <li><a href="/c/aduteca/router-e-ap-wifi">Ruoter e Ap wifi </a></li>
+            <li><a href="/c/aduteca/f-a-q">Domande frequenti </a></li>
+            <li><a href="/c/aduteca/glossario">Glossario </a></li>
+            <li><a href="/c/aduteca/organizzazione-lavori">Organizzazione lavori </a></li>
+            <li><a href="/c/aduteca/fastweb-s-p-a">Fastweb </a></li>
+            <li><a href="/c/aduteca/linux-guide">Linux Guide </a></li>
+            <li><a href="/c/aduteca/windows-guide">Windows Guide </a></li>
+            <li><a href="/c/aduteca/forum-e-chat">Forum e Chat Guide </a></li>
+            <li><a href="/c/aduteca/lavorazione" title="accesso alla sottosezione consentito solo ad utenti a livello 2 o superiore">Guide in Lavorazione </a></li>
+          </ul>        
+        </li>
+    		<li><a href="/c/banda-larga">Banda Larga</a></li>
+            <li><a href="/c/hardware">Hardware</a></li>
+            <li><a href="/c/software">Software</a></li>
+            <li><a href="/c/news">News dal mondo</a>
+          <ul>
+            <li><a href="/c/news/p2p">P2P</a></li>
+          </ul>    
+        </li>
+    		<li><a href="/c/linux">Linux</a>
+          <ul>
+            <li><a href="/c/linux/ubuntu">Ubuntu</a></li>
+          </ul>
+        </li>
+    		<li><a href="/c/apertamente">Apertamente</a></li> 
+           <li><a href="/c/streaming">Streaming</a>
+          <ul>
+            <li><a href="/c/streaming/kodi">Kodi</a></li>
+          </ul>
+        </li>
+    		<li><a href="/c/media">Media</a>
+           <ul>
+            <li><a href="/c/media/musica">Musica</a></li>
+            <li><a href="/c/media/cinema">Cinema</a></li>
+            <li><a href="/c/media/serietv">Serie TV</a></li>
+            <li><a href="/c/media/videogiochi">Videogiochi</a></li>
+            <li><a href="/c/media/anime">Anime</a></li>
+          </ul>
+		</li>  
+        <li><a href="/c/caxxeggio">Caxxeggio</a>
+           <ul>
+            <li><a href="/c/caxxeggio/compleanni">Compleanni</a></li>
+            <li><a href="/c/caxxeggio/ricette">Ricette</a></li>
+          </ul> 
+        </li>
+		<li><a href="/c/roba-tecnica">Roba tecnica</a></li> 
+        <li><a href="/c/prove">Prove</a></li>
+        <li><a href="/c/sport">Sport</a></li>
+      </ul>    
+    <li> <a href="#" class="guide" title="alcune delle guide principali di AdunanzA">Guide</a>
+      <ul>
+    <li> <a href="#">Ip e Mac Address</a>
+        <ul>
+            <li><a href="/t/-/2956" target="_blank">Verifica il tuo ip</a></li>  
+            <li><a href="/t/-/1416" target="_blank">Chiedi un Ip pubblico</a></li>
+            <li><a href="/t/-/4704" target="_blank">Trova IPv4 e Mac Address</a></li>
+            <li><a href="/t/-/4871" target="_blank">Configura un Ip statico</a></li>
+        </ul>
+    </li>
+    <li> <a href="#">Fastweb</a>
+        <ul>
+            <li><a href="/t/-/6052" target="_blank">Ull o Wholesale</a></li>
+            <li><a href="/t/-/5197" target="_blank">Aggiornamento Hag</a></li>
+        </ul>
+    </li>
+    <li> <a href="#">Assistenza</a>
+        <ul>
+            <li><a href="/t/-/2624" target="_blank">Chiedere Assistenza</a></li>
+            <li><a href="/t/-/5728" target="_blank">Questionario</a></li>
+        </ul>
+    </li>    
+    <li> <a href="#">eMule AdunanzA</a>
+        <ul>
+            <li><a href="/t/-/2815" target="_blank">Installa e Configura</a></li>
+            <li><a href="/t/-/2673" target="_blank">Configura il Wizard</a></li>
+            <li><a href="/t/-/3024" target="_blank">Configura le Opzioni</a></li>
+            <li><a href="/t/-/5521" target="_blank">Domande Frequenti - FAQ</a></li>    
+        </ul>
+    </li>
+    <li> <a href="#">aMule AdunanzA</a>
+        <ul>
+            <li><a href="/t/-/11300" target="_blank">Installa su Ubuntu 16.10</a></li>
+            <li><a href="/t/-/10315" target="_blank">Installa su Ubuntu 16.04</a></li>
+            <li><a href="/t/-/5002" target="_blank">Installa su Mac_OsX</a></li>
+            <li><a href="/t/-/8589" target="_blank">Fix server e kadu</a></li>
+            <li><a href="/t/-/9335" target="_blank">Fix 404-Errore 6</a></li>
+            <li><a href="/t/-/5563" target="_blank">Compila su Centos 7</a></li>
+            <li><a href="/t/-/8012" target="_blank">Script Anti-Crash</a></li>
+            <li><a href="/t/-/8676" target="_blank">Condividi su Amuled(GUI)</a></li>
+            <li><a href="/t/-/8675" target="_blank">Ed2k su server remoto</a></li>
+        </ul>
+    <li><a href="#">Dispositivi Embedded</a>
+        <ul>
+            <li><a href="/t/-/9392" target="_blank">Synology</a></li>
+            <li><a href="/t/-/2736" target="_blank">Raspberry PI</a></li>
+            <li><a href="/t/-/3229" target="_blank">Buffalo</a></li>
+            <li><a href="/t/-/9526" target="_blank">Qnap v7</a></li>
+            <li><a href="/t/-/7164" target="_blank">Banana PI/Pro</a></li>
+        </ul>
+    </li>
+        <li><a href="/t/-/4537" target="_blank">Router e AP wifi</a></li>
+        <li><a href="/t/-/4531" target="_blank">Firewall e antivirus</a></li>
+    <li><a href="#">Forum</a>
+        <ul>
+            <li><a href="/t/-/2462" target="_blank">Regolamento Forum</a></li>
+            <li><a href="/t/-/5600" target="_blank">Suggerimenti e Trucchi (1)</a></li>
+            <li><a href="/t/-/5655" target="_blank">Suggerimenti e Trucchi (2)</a></li>
+            <li><a href="/t/-/5601" target="_blank">Proponi un Sondaggio</a></li>
+            <li><a href="/t/-/10634" target="_blank">Aggiungi una Firma</a></li>
+            <li><a href="/t/-/6798" target="_blank">Ricerca e Ricerca Avanzata</a></li>
+            <li><a href="/t/-/8046" target="_blank">Livelli di Esperienza</a></li>
+        </ul>
+        </li>
+        <li><a href="#">Chat</a>
+        <ul>
+            <li><a href="/t/-/4864" target="_blank">Regolamento Chat</a></li>
+            <li><a href="/t/-/9259" target="_blank">Entra in Chat</a></li>
+            <li><a href="/t/-/9261" target="_blank">Funzionalità Chat</a></li>
+            <li><a href="/t/-/9319" target="_blank">Comandi di Oracolo</a></li>
+            <li><a href="/t/-/9811" target="_blank">Comandi di Robotica</a></li>
+            <li><a href="/t/-/9814" target="_blank">Funzionamento Bot</a></li>
+        </ul>
+        </li>        
+      </ul>
+    </li>
+    <li><a href="#" class="down" title="download dei software AdunanzA">Download</a>
+      <ul>
+        <li><a href="/t/-/1864">eMule AdunanzA</a></li>
+        <li><a href="/t/-/1865">aMule AdunanzA</a></li>
+        <li><a href="/t/-/4818">Tsunami Alpha</a></li>
+      </ul>
+    </li>
+    <li><a href="#" class="portale" title="portale di AdunanzA (al momento non è attivo)">Portale</a></li>
+  </ul>
+</nav>
+
+
