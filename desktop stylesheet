@@ -158,6 +158,9 @@
   content: "\f0e8";
   margin-right: 4px;    
 }
+
+<!--Change the Discourse header background color with a gradient + icons color on header-->
+
 .d-header {
   background: -webkit-linear-gradient(#FF6C00 10%,#fcd500 100%);
   background: -moz-linear-gradient(#FF6C00 10%,#fcd500 100%);
@@ -169,8 +172,10 @@
 .d-header .icons .icon {color: #fff;}
 .container.list-container {margin-top: -10px;}
 .container {margin-top: 5px;}
-/*Post che richiedono approvazione*/
-.d-header .flagged-posts {background: #e00707;}
+
+<!--End-->
+
+
 /*MEDIA QUERY*/ 
 @media(max-width: 767px) {
 
