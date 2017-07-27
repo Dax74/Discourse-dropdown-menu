@@ -1,4 +1,8 @@
+<!--Add a different font for my menu, from https://fonts.google.com/-->
+
 <link href='https://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
+
+<--!End-->
 
 <nav id="ADUmenu-wrap">
   <ul id="ADUmenu">
@@ -174,7 +178,7 @@
         <li><a href="/t/-/4818">Tsunami Alpha</a></li>
       </ul>
     </li>
-    <li><a href="#" class="portale" title="portale di AdunanzA (al momento non è attivo)">Portale</a></li>
+    <li><a href="https://www.adunanza.net/" target="_blank" class="portale" title="portale di AdunanzA">Portale</a></li>
   </ul>
 </nav>
 
