@@ -74,6 +74,9 @@
 }
 #ADUmenu ul a { background: none !important; }
 }
+
+<!--Add a gradiend to the Discourse Header + change icons color-->
+
 .d-header {
   background: -webkit-linear-gradient(#FF6C00 10%,#fcd500 100%);
   background: -moz-linear-gradient(#FF6C00 10%,#fcd500 100%);
@@ -85,3 +88,4 @@
 .d-header .icons .icon {color: #fff;}
 .container.list-container {margin-top: -10px;}
 .container {margin-top: 5px;}
+<--!End-->
