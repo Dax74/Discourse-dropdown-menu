@@ -14,7 +14,7 @@ See it in action here <a href="https://forum.adunanza.net/">AduForum</a>
 
 Done
 
-Change the HTML structure (links) as appropriate to your site
+<em>Change</em> the HTML structure (links) as appropriate to your site
 
 ### How it works
 
