@@ -1,3 +1,12 @@
+<script>
+$(document).ready(function(){
+  $('#ADUmenu-wrap').prepend('<div id="ADUmenu-trigger">ADUMenu</div>');
+  $('#ADUmenu-trigger').on('click', function(){
+    $('#ADUmenu').slideToggle();
+  });
+});
+</script>
+
 <!--Add a different font for my menu, from https://fonts.google.com/-->
 
 <link href='https://fonts.googleapis.com/css?family=Advent+Pro' rel='stylesheet' type='text/css'>
